@@ -5,7 +5,7 @@
 ## 🚩 Nice way to meet me
 <p>
   <a href="https://yoownny.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-EA4335?style=flat-square&logo=tistory&logoColor=white"/></a>
-</p>
+</p></br>
 
 ## ✨ Skills
 #### Used as the main
