@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=FFEBCD&height=150&section=header&text=Hello%20world🌞&fontSize=35&animation=fadeIn&fontAlignY=35&desc=My%20name%20is%20Seungyoon&descAlignY=55&descAlign=50"/>
 </p>
 
-### 🚩 Nice way to meet me
+### 📌 Nice way to meet me
 <p>
   <a href="https://yoownny.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-EA4335?style=flat-square&logo=tistory&logoColor=white"/></a>
 </p>
