@@ -3,9 +3,13 @@
 </p>
 
 ## 📌 About me
-<p>
-  <a href="https://yoownny.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-EA4335?style=flat-square&logo=tistory&logoColor=white"/></a>
-</p>
+<b>Name : </b>Park SeungYoon
+
+<b>Birth : </b>2000.06.03
+
+<b>Email : </b>kelosy00@naver.com
+<br>
+<br>
 
 ## ✨ Skills
 <h3> Programing Languages </h3>
@@ -37,6 +41,7 @@
     <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"/>  
     <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
 </p>
+<br>
 
 ## 👩‍💻 My Github Stats
 ![SeungYoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoownny&show_icons=true&theme=flag-india)
