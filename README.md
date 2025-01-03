@@ -11,14 +11,6 @@
 <br>
 <br>
 
-## :trophy: Awards
-2024 세종대학교 창의설계 경진대회 대상
-
-2024 세종대학교 학술제 예선 2등
-
-2024 세종대학교 학술제 본선 2등
-<br>
-<br>
 
 ## ✨ Skills
 <h4> Programing Languages </h4>
