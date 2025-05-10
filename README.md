@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=FFEBCD&height=150&section=header&text=Hello%20world🌞&fontSize=35&animation=fadeIn&fontAlignY=35&desc=My%20name%20is%20Seungyoon&descAlignY=55&descAlign=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=150&section=header&text=Hello%20world👾&fontSize=35&animation=fadeIn&fontAlignY=35&desc=My%20name%20is%20Seungyoon&descAlignY=55&descAlign=50"/>
 </p>
 
 ## 📌 About me
